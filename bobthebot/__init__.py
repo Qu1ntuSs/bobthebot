@@ -1,2 +1,1 @@
-def joke():
-	print("hahaha")
+from .text import joke
